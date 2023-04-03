@@ -1,0 +1,36 @@
+h1 {
+  text-align: left;
+  text-transform: uppercase;
+  color: #e3773d;
+}
+
+span {
+<!--  background: gold;-->
+  float: left;
+  margin-right: 7px;
+  color: #3540bd;
+  font-family: "Roboto Slab", serif;
+  font-size: 30px;
+  line-height: 25px;
+}
+
+button {
+  width: 5%;
+  background-color: #6c5799;
+  color: white;
+  margin: 8px 0;
+  border-radius: 20px;
+  border: none;
+  cursor: pointer;
+  padding: 5px 8px;
+}
+input[type=submit] {
+  width: 8%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+}

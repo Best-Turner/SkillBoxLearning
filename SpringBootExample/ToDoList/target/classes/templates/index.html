@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <link href="/css/text.css" rel="stylesheet">
+    <title>Everything to do list</title>
+
+</head>
+<body>
+<H1>Ваш список задач</H1>
+<div>
+    <div th:if="${allTask.isEmpty}">
+        <span style="color:red">Задач нет</span>
+    </div>
+    <div th:each="task : ${allTask}">
+        <span th:text="${task.getTitle()}"></span>
+        <br>
+        <a th:href="@{{id}(id=${task.getId()})}">
+            <button>Подробнее</button>
+        </a>
+    </div>
+    <form method="get" action="/new">
+        <input type="submit" value="Создать!">
+    </form>
+</body>
+</html>

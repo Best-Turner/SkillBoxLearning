@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <link href="/css/text.css" rel="stylesheet">
+    <link href="/css/form.css" rel="stylesheet">
+    <title>Details</title>
+
+</head>
+<body>
+<label for="id">№ </label>
+<span th:text="${detailsAboutTask.getId()}" id="id"></span>
+<br>
+<label for="title">Заголовок: </label>
+<span th:text="${detailsAboutTask.getTitle()}" id="title"></span>
+<br>
+<label for="description">Описание: </label>
+<span th:text="${detailsAboutTask.getDescription()}" id="description"></span>
+<br>
+<label for="isDone">Выполнение: </label>
+<span th:text="${detailsAboutTask.isDone()}? 'Выполненно' : 'Не выполненно'" id="isDone"></span>
+
+<div>
+    <form th:method="DELETE" th:action="@{/{id}(id=${detailsAboutTask.getId()})}">
+        <input type="submit" value="Удалить">
+    </form>
+</div>
+<a th:href="@{/{id}/edit(id=${detailsAboutTask.getId()})}">
+    <button>Изменить запись</button>
+</a>
+<a href="/">
+    <button>Назад</button>
+</a>
+</body>
+</html>
