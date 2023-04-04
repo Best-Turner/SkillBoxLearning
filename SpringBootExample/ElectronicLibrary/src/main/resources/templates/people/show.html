@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Person data</title>
+</head>
+<body>
+<h2>Подробная иформация о читателе</h2>
+<label for="id">Идентификационный номер: </label>
+<span th:text="${person.getId()}" id="id">id</span>
+<br>
+<label for="name">Имя: </label>
+<span th:text="${person.getName()}" id="name">name</span>
+<br>
+<label for="surname">Фамилия: </label>
+<span th:text="${person.getSurname()}" id="surname">surname</span>
+<br>
+<label for="patronymic">Отчество: </label>
+<span th:text="${person.getPatronymic()}" id="patronymic">patronymic</span>
+<br>
+<label for="year">Год рождения: </label>
+<span th:text="${person.getYear()}" id="year">year</span>
+<br>
+
+<a th:href="@{/people/{id}/edit(id=${person.getId()})}">
+    <button title="Изменить данные о человеке">Изменить</button>
+</a>
+<form th:method="DELETE" th:action="@{/people/{id}(id=${person.getId()})}">
+    <input style="color:red" type="submit" value="Удалить" title="Удалить этого человека">
+</form>
+<hr/>
+<br>
+<h4>Список книг:</h4>
+<br>
+<div th:each="book : ${books}"
+     th:text="${book.getTitle()}"
+     th:if="${!books.isEmpty()}">
+</div>
+<p style="color:blue"
+   th:if="${books.isEmpty()}" th:text="${person.getName()} +' ' +еще + ' ' + не+ ' '
+   + взял+ ' ' + ни+ ' ' + одной+ ' ' + книги">text</p>
+<hr>
+<a href="/people">
+    <button title="назад к списку читателей">Назад</button>
+</a>
+</body>
+</html>

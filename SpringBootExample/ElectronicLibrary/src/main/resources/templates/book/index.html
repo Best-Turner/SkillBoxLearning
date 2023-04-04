@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>All books</title>
+</head>
+<body>
+<h4>Список книг</h4>
+<div th:each="book : ${books}">
+    <a th:href="@{/book/{id}(id=${book.getId})}" th:text="${book.getId() + ', ' + book.getTitle()}">book</a>
+</div>
+<br>
+<hr>
+<form method="get" action="/book">
+    <label for="page" title="Сюда вводят номер страницы которую хотят получить">Введите номер страницы:</label>
+    <input type="text" id="page" name="page">
+    <br/>
+    <label for="itemPerPage" title="Сюда вводят количество строк которые будут видны на странице">Введите сколько книг
+        вы хотите выдеть:</label>
+    <input type="text" id="itemPerPage" name="itemPerPage">
+    <br/>
+    <label for="sorted">Сортировать книги по году выпуска?</label>
+    <select id="sorted" name="sorted">
+        <option value="true">ДА</option>
+        <option selected="selected" value="false">НЕТ</option>
+    </select>
+    <br/>
+    <input type="submit" value="Отправить">
+</form>
+
+<br>
+<hr>
+<a href="/book/new">
+    <button type="submit" title="Вы можете добавить нового человека">Добавить новую книгу</button>
+</a>
+<a href="/people">
+    <button>Перейти к списку читателей</button>
+</a>
+<br/>
+<a style="color:red" href="/book/search">Поиск книги</a>
+</body>
+</html>
