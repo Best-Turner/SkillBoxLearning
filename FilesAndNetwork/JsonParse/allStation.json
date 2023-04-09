@@ -1,0 +1,2028 @@
+[
+  {
+    "numberLine": "1",
+    "name": "Бульвар Рокоссовского",
+    "connectionStation": [
+      "переход на станцию «Бульвар Рокоссовского» МЦК"
+    ]
+  },
+  {
+    "numberLine": "1",
+    "name": "Черкизовская",
+    "connectionStation": [
+      "переход на станцию «Локомотив» МЦК"
+    ]
+  },
+  {
+    "numberLine": "1",
+    "name": "Преображенская площадь",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "1",
+    "name": "Сокольники",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "1",
+    "name": "Красносельская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "1",
+    "name": "Комсомольская",
+    "connectionStation": [
+      "переход на станцию «Комсомольская» Кольцевой линии",
+      "переход на станцию «Каланчёвская» Курско-Рижского (второго) диаметра"
+    ]
+  },
+  {
+    "numberLine": "1",
+    "name": "Красные ворота",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "1",
+    "name": "Чистые пруды",
+    "connectionStation": [
+      "переход на станцию «Сретенский бульвар» Люблинско-Дмитровской линии",
+      "переход на станцию «Тургеневская» Калужско-Рижской линии"
+    ]
+  },
+  {
+    "numberLine": "1",
+    "name": "Лубянка",
+    "connectionStation": [
+      "переход на станцию «Кузнецкий мост» Таганско-Краснопресненской линии"
+    ]
+  },
+  {
+    "numberLine": "1",
+    "name": "Охотный ряд",
+    "connectionStation": [
+      "переход на станцию «Площадь Революции» Арбатско-Покровской линии",
+      "переход на станцию «Театральная» Замоскворецкой линии"
+    ]
+  },
+  {
+    "numberLine": "1",
+    "name": "Библиотека имени Ленина",
+    "connectionStation": [
+      "переход на станцию «Боровицкая» Серпуховско-Тимирязевской линии",
+      "переход на станцию «Александровский сад» Филевской линии",
+      "переход на станцию «Арбатская» Арбатско-Покровской линии"
+    ]
+  },
+  {
+    "numberLine": "1",
+    "name": "Кропоткинская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "1",
+    "name": "Парк Культуры",
+    "connectionStation": [
+      "переход на станцию «Парк Культуры» Кольцевой линии"
+    ]
+  },
+  {
+    "numberLine": "1",
+    "name": "Фрунзенская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "1",
+    "name": "Спортивная",
+    "connectionStation": [
+      "переход на станцию «Лужники» МЦК"
+    ]
+  },
+  {
+    "numberLine": "1",
+    "name": "Воробьевы горы",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "1",
+    "name": "Университет",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "1",
+    "name": "Проспект Вернадского",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "1",
+    "name": "Юго-Западная",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "1",
+    "name": "Тропарёво",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "1",
+    "name": "Румянцево",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "1",
+    "name": "Саларьево",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "1",
+    "name": "Филатов Луг",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "1",
+    "name": "Прокшино",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "1",
+    "name": "Ольховая",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "1",
+    "name": "Коммунарка",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "2",
+    "name": "Ховрино",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "2",
+    "name": "Беломорская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "2",
+    "name": "Речной вокзал",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "2",
+    "name": "Водный стадион",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "2",
+    "name": "Войковская",
+    "connectionStation": [
+      "переход на станцию «Балтийская» МЦК",
+      "переход на станцию «Стрешнево» Курско-Рижского (второго) диаметра"
+    ]
+  },
+  {
+    "numberLine": "2",
+    "name": "Сокол",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "2",
+    "name": "Аэропорт",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "2",
+    "name": "Динамо",
+    "connectionStation": [
+      "переход на станцию «Петровский парк» БКЛ"
+    ]
+  },
+  {
+    "numberLine": "2",
+    "name": "Белорусская",
+    "connectionStation": [
+      "переход на станцию «Белорусская» Кольцевой линии",
+      "переход на станцию «Белорусская» Белорусско-Савёловского (первого) диаметра"
+    ]
+  },
+  {
+    "numberLine": "2",
+    "name": "Маяковская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "2",
+    "name": "Тверская",
+    "connectionStation": [
+      "переход на станцию «Чеховская» Серпуховско-Тимирязевской линии",
+      "переход на станцию «Пушкинская» Таганско-Краснопресненской линии"
+    ]
+  },
+  {
+    "numberLine": "2",
+    "name": "Театральная",
+    "connectionStation": [
+      "переход на станцию «Площадь Революции» Арбатско-Покровской линии",
+      "переход на станцию «Охотный ряд» Сокольнической линии"
+    ]
+  },
+  {
+    "numberLine": "2",
+    "name": "Новокузнецкая",
+    "connectionStation": [
+      "переход на станцию «Третьяковская» Калининско-Солнцевской линии",
+      "переход на станцию «Третьяковская» Калужско-Рижской линии"
+    ]
+  },
+  {
+    "numberLine": "2",
+    "name": "Павелецкая",
+    "connectionStation": [
+      "переход на станцию «Павелецкая» Кольцевой линии"
+    ]
+  },
+  {
+    "numberLine": "2",
+    "name": "Автозаводская",
+    "connectionStation": [
+      "переход на станцию «Автозаводская» МЦК"
+    ]
+  },
+  {
+    "numberLine": "2",
+    "name": "Технопарк",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "2",
+    "name": "Коломенская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "2",
+    "name": "Каширская",
+    "connectionStation": [
+      "переход на станцию «Каширская» Каховской линии"
+    ]
+  },
+  {
+    "numberLine": "2",
+    "name": "Кантемировская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "2",
+    "name": "Царицыно",
+    "connectionStation": [
+      "переход на станцию «Царицыно» Курско-Рижского (второго) диаметра"
+    ]
+  },
+  {
+    "numberLine": "2",
+    "name": "Орехово",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "2",
+    "name": "Домодедовская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "2",
+    "name": "Красногвардейская",
+    "connectionStation": [
+      "переход на станцию «Зябликово» Люблинско-Дмитровской линии"
+    ]
+  },
+  {
+    "numberLine": "2",
+    "name": "Алма-Атинская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "3",
+    "name": "Пятницкое шоссе",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "3",
+    "name": "Митино",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "3",
+    "name": "Волоколамская",
+    "connectionStation": [
+      "переход на станцию «Волоколамская» Курско-Рижского (второго) диаметра"
+    ]
+  },
+  {
+    "numberLine": "3",
+    "name": "Мякинино",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "3",
+    "name": "Строгино",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "3",
+    "name": "Крылатское",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "3",
+    "name": "Молодежная",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "3",
+    "name": "Кунцевская",
+    "connectionStation": [
+      "переход на станцию «Кунцевская» Филевской линии",
+      "переход на станцию «Кунцево» Белорусско-Савёловского (первого) диаметра"
+    ]
+  },
+  {
+    "numberLine": "3",
+    "name": "Славянский бульвар",
+    "connectionStation": [
+      "переход на станцию «Славянский бульвар» Белорусско-Савёловского (первого) диаметра"
+    ]
+  },
+  {
+    "numberLine": "3",
+    "name": "Парк Победы",
+    "connectionStation": [
+      "переход на станцию «Парк Победы» Калининско-Солнцевской линии"
+    ]
+  },
+  {
+    "numberLine": "3",
+    "name": "Киевская",
+    "connectionStation": [
+      "переход на станцию «Киевская» Кольцевой линии",
+      "переход на станцию «Киевская» Филевской линии"
+    ]
+  },
+  {
+    "numberLine": "3",
+    "name": "Смоленская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "3",
+    "name": "Арбатская",
+    "connectionStation": [
+      "переход на станцию «Боровицкая» Серпуховско-Тимирязевской линии",
+      "переход на станцию «Александровский сад» Филевской линии",
+      "переход на станцию «Библиотека имени Ленина» Сокольнической линии"
+    ]
+  },
+  {
+    "numberLine": "3",
+    "name": "Площадь Революции",
+    "connectionStation": [
+      "переход на станцию «Театральная» Замоскворецкой линии",
+      "переход на станцию «Охотный ряд» Сокольнической линии"
+    ]
+  },
+  {
+    "numberLine": "3",
+    "name": "Курская",
+    "connectionStation": [
+      "переход на станцию «Чкаловская» Люблинско-Дмитровской линии",
+      "переход на станцию «Курская» Кольцевой линии",
+      "переход на станцию «Курская» Курско-Рижского (второго) диаметра"
+    ]
+  },
+  {
+    "numberLine": "3",
+    "name": "Бауманская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "3",
+    "name": "Электрозаводская",
+    "connectionStation": [
+      "переход на станцию «Электрозаводская» Некрасовской линии"
+    ]
+  },
+  {
+    "numberLine": "3",
+    "name": "Семеновская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "3",
+    "name": "Партизанская",
+    "connectionStation": [
+      "переход на станцию «Измайлово» МЦК"
+    ]
+  },
+  {
+    "numberLine": "3",
+    "name": "Измайловская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "3",
+    "name": "Первомайская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "3",
+    "name": "Щелковская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "4",
+    "name": "Александровский сад",
+    "connectionStation": [
+      "переход на станцию «Боровицкая» Серпуховско-Тимирязевской линии",
+      "переход на станцию «Арбатская» Арбатско-Покровской линии",
+      "переход на станцию «Библиотека имени Ленина» Сокольнической линии"
+    ]
+  },
+  {
+    "numberLine": "4",
+    "name": "Арбатская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "4",
+    "name": "Смоленская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "4",
+    "name": "Киевская",
+    "connectionStation": [
+      "переход на станцию «Киевская» Кольцевой линии",
+      "переход на станцию «Киевская» Арбатско-Покровской линии"
+    ]
+  },
+  {
+    "numberLine": "4",
+    "name": "Студенческая",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "4",
+    "name": "Кутузовская",
+    "connectionStation": [
+      "переход на станцию «Кутузовская» МЦК"
+    ]
+  },
+  {
+    "numberLine": "4",
+    "name": "Фили",
+    "connectionStation": [
+      "переход на станцию «Фили» Белорусско-Савёловского (первого) диаметра"
+    ]
+  },
+  {
+    "numberLine": "4",
+    "name": "Багратионовская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "4",
+    "name": "Филевский парк",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "4",
+    "name": "Пионерская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "4",
+    "name": "Кунцевская",
+    "connectionStation": [
+      "переход на станцию «Кунцевская» Арбатско-Покровской линии",
+      "переход на станцию «Кунцево» Белорусско-Савёловского (первого) диаметра"
+    ]
+  },
+  {
+    "numberLine": "4",
+    "name": "Выставочная",
+    "connectionStation": [
+      "переход на станцию «Деловой центр» БКЛ",
+      "переход на станцию «Деловой центр» Калининско-Солнцевской линии",
+      "переход на станцию «Тестовская» Белорусско-Савёловского (первого) диаметра"
+    ]
+  },
+  {
+    "numberLine": "4",
+    "name": "Международная",
+    "connectionStation": [
+      "переход на станцию «Деловой центр» МЦК",
+      "переход на станцию «Тестовская» Белорусско-Савёловского (первого) диаметра"
+    ]
+  },
+  {
+    "numberLine": "5",
+    "name": "Киевская",
+    "connectionStation": [
+      "переход на станцию «Киевская» Филевской линии",
+      "переход на станцию «Киевская» Арбатско-Покровской линии"
+    ]
+  },
+  {
+    "numberLine": "5",
+    "name": "Парк Культуры",
+    "connectionStation": [
+      "переход на станцию «Парк Культуры» Сокольнической линии"
+    ]
+  },
+  {
+    "numberLine": "5",
+    "name": "Октябрьская",
+    "connectionStation": [
+      "переход на станцию «Октябрьская» Калужско-Рижской линии"
+    ]
+  },
+  {
+    "numberLine": "5",
+    "name": "Добрынинская",
+    "connectionStation": [
+      "переход на станцию «Серпуховская» Серпуховско-Тимирязевской линии"
+    ]
+  },
+  {
+    "numberLine": "5",
+    "name": "Павелецкая",
+    "connectionStation": [
+      "переход на станцию «Павелецкая» Замоскворецкой линии"
+    ]
+  },
+  {
+    "numberLine": "5",
+    "name": "Таганская",
+    "connectionStation": [
+      "переход на станцию «Марксистская» Калининско-Солнцевской линии",
+      "переход на станцию «Таганская» Таганско-Краснопресненской линии"
+    ]
+  },
+  {
+    "numberLine": "5",
+    "name": "Курская",
+    "connectionStation": [
+      "переход на станцию «Чкаловская» Люблинско-Дмитровской линии",
+      "переход на станцию «Курская» Арбатско-Покровской линии",
+      "переход на станцию «Курская» Курско-Рижского (второго) диаметра"
+    ]
+  },
+  {
+    "numberLine": "5",
+    "name": "Комсомольская",
+    "connectionStation": [
+      "переход на станцию «Комсомольская» Сокольнической линии",
+      "переход на станцию «Каланчёвская» Курско-Рижского (второго) диаметра"
+    ]
+  },
+  {
+    "numberLine": "5",
+    "name": "Проспект Мира",
+    "connectionStation": [
+      "переход на станцию «Проспект Мира» Калужско-Рижской линии"
+    ]
+  },
+  {
+    "numberLine": "5",
+    "name": "Новослободская",
+    "connectionStation": [
+      "переход на станцию «Менделеевская» Серпуховско-Тимирязевской линии"
+    ]
+  },
+  {
+    "numberLine": "5",
+    "name": "Белорусская",
+    "connectionStation": [
+      "переход на станцию «Белорусская» Замоскворецкой линии",
+      "переход на станцию «Белорусская» Белорусско-Савёловского (первого) диаметра"
+    ]
+  },
+  {
+    "numberLine": "5",
+    "name": "Краснопресненская",
+    "connectionStation": [
+      "переход на станцию «Баррикадная» Таганско-Краснопресненской линии"
+    ]
+  },
+  {
+    "numberLine": "6",
+    "name": "Новоясеневская",
+    "connectionStation": [
+      "переход на станцию «Битцевский парк» Бутовской линии"
+    ]
+  },
+  {
+    "numberLine": "6",
+    "name": "Ясенево",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "6",
+    "name": "Теплый стан",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "6",
+    "name": "Коньково",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "6",
+    "name": "Беляево",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "6",
+    "name": "Калужская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "6",
+    "name": "Новые Черёмушки",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "6",
+    "name": "Профсоюзная",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "6",
+    "name": "Академическая",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "6",
+    "name": "Ленинский проспект",
+    "connectionStation": [
+      "переход на станцию «Площадь Гагарина» МЦК"
+    ]
+  },
+  {
+    "numberLine": "6",
+    "name": "Шаболовская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "6",
+    "name": "Октябрьская",
+    "connectionStation": [
+      "переход на станцию «Октябрьская» Кольцевой линии"
+    ]
+  },
+  {
+    "numberLine": "6",
+    "name": "Третьяковская",
+    "connectionStation": [
+      "переход на станцию «Третьяковская» Калининско-Солнцевской линии",
+      "переход на станцию «Новокузнецкая» Замоскворецкой линии"
+    ]
+  },
+  {
+    "numberLine": "6",
+    "name": "Китай-город",
+    "connectionStation": [
+      "переход на станцию «Китай-город» Таганско-Краснопресненской линии"
+    ]
+  },
+  {
+    "numberLine": "6",
+    "name": "Тургеневская",
+    "connectionStation": [
+      "переход на станцию «Сретенский бульвар» Люблинско-Дмитровской линии",
+      "переход на станцию «Чистые пруды» Сокольнической линии"
+    ]
+  },
+  {
+    "numberLine": "6",
+    "name": "Сухаревская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "6",
+    "name": "Проспект Мира",
+    "connectionStation": [
+      "переход на станцию «Проспект Мира» Кольцевой линии"
+    ]
+  },
+  {
+    "numberLine": "6",
+    "name": "Рижская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "6",
+    "name": "Алексеевская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "6",
+    "name": "ВДНХ",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "6",
+    "name": "Ботанический сад",
+    "connectionStation": [
+      "переход на станцию «Ботанический Сад» МЦК"
+    ]
+  },
+  {
+    "numberLine": "6",
+    "name": "Свиблово",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "6",
+    "name": "Бабушкинская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "6",
+    "name": "Медведково",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "7",
+    "name": "Котельники",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "7",
+    "name": "Жулебино",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "7",
+    "name": "Лермонтовский проспект",
+    "connectionStation": [
+      "переход на станцию «Косино» Некрасовской линии"
+    ]
+  },
+  {
+    "numberLine": "7",
+    "name": "Выхино",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "7",
+    "name": "Рязанский проспект",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "7",
+    "name": "Кузьминки",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "7",
+    "name": "Текстильщики",
+    "connectionStation": [
+      "переход на станцию «Текстильщики» Курско-Рижского (второго) диаметра"
+    ]
+  },
+  {
+    "numberLine": "7",
+    "name": "Волгоградский проспект",
+    "connectionStation": [
+      "переход на станцию «Угрешская» МЦК"
+    ]
+  },
+  {
+    "numberLine": "7",
+    "name": "Пролетарская",
+    "connectionStation": [
+      "переход на станцию «Крестьянская застава» Люблинско-Дмитровской линии"
+    ]
+  },
+  {
+    "numberLine": "7",
+    "name": "Таганская",
+    "connectionStation": [
+      "переход на станцию «Марксистская» Калининско-Солнцевской линии",
+      "переход на станцию «Таганская» Кольцевой линии"
+    ]
+  },
+  {
+    "numberLine": "7",
+    "name": "Китай-город",
+    "connectionStation": [
+      "переход на станцию «Китай-город» Калужско-Рижской линии"
+    ]
+  },
+  {
+    "numberLine": "7",
+    "name": "Кузнецкий мост",
+    "connectionStation": [
+      "переход на станцию «Лубянка» Сокольнической линии"
+    ]
+  },
+  {
+    "numberLine": "7",
+    "name": "Пушкинская",
+    "connectionStation": [
+      "переход на станцию «Чеховская» Серпуховско-Тимирязевской линии",
+      "переход на станцию «Тверская» Замоскворецкой линии"
+    ]
+  },
+  {
+    "numberLine": "7",
+    "name": "Баррикадная",
+    "connectionStation": [
+      "переход на станцию «Краснопресненская» Кольцевой линии"
+    ]
+  },
+  {
+    "numberLine": "7",
+    "name": "Улица 1905 года",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "7",
+    "name": "Беговая",
+    "connectionStation": [
+      "переход на станцию «Беговая» Белорусско-Савёловского (первого) диаметра"
+    ]
+  },
+  {
+    "numberLine": "7",
+    "name": "Полежаевская",
+    "connectionStation": [
+      "переход на станцию «Хорошёво» МЦК",
+      "переход на станцию «Хорошёвская» БКЛ"
+    ]
+  },
+  {
+    "numberLine": "7",
+    "name": "Октябрьское Поле",
+    "connectionStation": [
+      "переход на станцию «Зорге» МЦК",
+      "переход на станцию «Панфиловская» МЦК"
+    ]
+  },
+  {
+    "numberLine": "7",
+    "name": "Щукинская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "7",
+    "name": "Спартак",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "7",
+    "name": "Тушинская",
+    "connectionStation": [
+      "переход на станцию «Тушино» Курско-Рижского (второго) диаметра"
+    ]
+  },
+  {
+    "numberLine": "7",
+    "name": "Сходненская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "7",
+    "name": "Планерная",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "8",
+    "name": "Новокосино",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "8",
+    "name": "Новогиреево",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "8",
+    "name": "Перово",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "8",
+    "name": "Шоссе Энтузиастов",
+    "connectionStation": [
+      "переход на станцию «Шоссе Энтузиастов» МЦК"
+    ]
+  },
+  {
+    "numberLine": "8",
+    "name": "Авиамоторная",
+    "connectionStation": [
+      "переход на станцию «Авиамоторная» Некрасовской линии"
+    ]
+  },
+  {
+    "numberLine": "8",
+    "name": "Площадь Ильича",
+    "connectionStation": [
+      "переход на станцию «Римская» Люблинско-Дмитровской линии",
+      "переход на станцию «Москва Товарная» Курско-Рижского (второго) диаметра"
+    ]
+  },
+  {
+    "numberLine": "8",
+    "name": "Марксистская",
+    "connectionStation": [
+      "переход на станцию «Таганская» Таганско-Краснопресненской линии",
+      "переход на станцию «Таганская» Кольцевой линии"
+    ]
+  },
+  {
+    "numberLine": "8",
+    "name": "Третьяковская",
+    "connectionStation": [
+      "переход на станцию «Третьяковская» Калужско-Рижской линии",
+      "переход на станцию «Новокузнецкая» Замоскворецкой линии"
+    ]
+  },
+  {
+    "numberLine": "8",
+    "name": "Деловой центр",
+    "connectionStation": [
+      "переход на станцию «Деловой центр» БКЛ",
+      "переход на станцию «Выставочная» Филевской линии"
+    ]
+  },
+  {
+    "numberLine": "8",
+    "name": "Парк Победы",
+    "connectionStation": [
+      "переход на станцию «Парк Победы» Арбатско-Покровской линии"
+    ]
+  },
+  {
+    "numberLine": "8",
+    "name": "Минская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "8",
+    "name": "Ломоносовский проспект",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "8",
+    "name": "Раменки",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "8",
+    "name": "Мичуринский проспект",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "8",
+    "name": "Озёрная",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "8",
+    "name": "Говорово",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "8",
+    "name": "Солнцево",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "8",
+    "name": "Боровское шоссе",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "8",
+    "name": "Новопеределкино",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "8",
+    "name": "Рассказовка",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "9",
+    "name": "Бульвар Дмитрия Донского",
+    "connectionStation": [
+      "переход на станцию «Улица Старокачаловская» Бутовской линии"
+    ]
+  },
+  {
+    "numberLine": "9",
+    "name": "Аннино",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "9",
+    "name": "Улица академика Янгеля",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "9",
+    "name": "Пражская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "9",
+    "name": "Южная",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "9",
+    "name": "Чертановская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "9",
+    "name": "Севастопольская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "9",
+    "name": "Нахимовский Проспект",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "9",
+    "name": "Нагорная",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "9",
+    "name": "Нагатинская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "9",
+    "name": "Тульская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "9",
+    "name": "Серпуховская",
+    "connectionStation": [
+      "переход на станцию «Добрынинская» Кольцевой линии"
+    ]
+  },
+  {
+    "numberLine": "9",
+    "name": "Полянка",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "9",
+    "name": "Боровицкая",
+    "connectionStation": [
+      "переход на станцию «Александровский сад» Филевской линии",
+      "переход на станцию «Арбатская» Арбатско-Покровской линии",
+      "переход на станцию «Библиотека имени Ленина» Сокольнической линии"
+    ]
+  },
+  {
+    "numberLine": "9",
+    "name": "Чеховская",
+    "connectionStation": [
+      "переход на станцию «Пушкинская» Таганско-Краснопресненской линии",
+      "переход на станцию «Тверская» Замоскворецкой линии"
+    ]
+  },
+  {
+    "numberLine": "9",
+    "name": "Цветной бульвар",
+    "connectionStation": [
+      "переход на станцию «Трубная» Люблинско-Дмитровской линии"
+    ]
+  },
+  {
+    "numberLine": "9",
+    "name": "Менделеевская",
+    "connectionStation": [
+      "переход на станцию «Новослободская» Кольцевой линии"
+    ]
+  },
+  {
+    "numberLine": "9",
+    "name": "Савеловская",
+    "connectionStation": [
+      "переход на станцию «Савёловская» БКЛ",
+      "переход на станцию «Савёловская» Белорусско-Савёловского (первого) диаметра"
+    ]
+  },
+  {
+    "numberLine": "9",
+    "name": "Дмитровская",
+    "connectionStation": [
+      "переход на станцию «Дмитровская» Курско-Рижского (второго) диаметра"
+    ]
+  },
+  {
+    "numberLine": "9",
+    "name": "Тимирязевская",
+    "connectionStation": [
+      "переход на станцию «Тимирязевская» Белорусско-Савёловского (первого) диаметра"
+    ]
+  },
+  {
+    "numberLine": "9",
+    "name": "Петровско-Разумовская",
+    "connectionStation": [
+      "переход на станцию «Петровско-Разумовская» Люблинско-Дмитровской линии"
+    ]
+  },
+  {
+    "numberLine": "9",
+    "name": "Владыкино",
+    "connectionStation": [
+      "переход на станцию «Владыкино» МЦК"
+    ]
+  },
+  {
+    "numberLine": "9",
+    "name": "Отрадное",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "9",
+    "name": "Бибирево",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "9",
+    "name": "Алтуфьево",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "10",
+    "name": "Зябликово",
+    "connectionStation": [
+      "переход на станцию «Красногвардейская» Замоскворецкой линии"
+    ]
+  },
+  {
+    "numberLine": "10",
+    "name": "Шипиловская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "10",
+    "name": "Борисово",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "10",
+    "name": "Марьино",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "10",
+    "name": "Братиславская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "10",
+    "name": "Люблино",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "10",
+    "name": "Волжская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "10",
+    "name": "Печатники",
+    "connectionStation": [
+      "переход на станцию «Кубанская» Курско-Рижского (второго) диаметра"
+    ]
+  },
+  {
+    "numberLine": "10",
+    "name": "Кожуховская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "10",
+    "name": "Дубровка",
+    "connectionStation": [
+      "переход на станцию «Дубровка» МЦК"
+    ]
+  },
+  {
+    "numberLine": "10",
+    "name": "Крестьянская застава",
+    "connectionStation": [
+      "переход на станцию «Пролетарская» Таганско-Краснопресненской линии"
+    ]
+  },
+  {
+    "numberLine": "10",
+    "name": "Римская",
+    "connectionStation": [
+      "переход на станцию «Площадь Ильича» Калининско-Солнцевской линии",
+      "переход на станцию «Москва Товарная» Курско-Рижского (второго) диаметра"
+    ]
+  },
+  {
+    "numberLine": "10",
+    "name": "Чкаловская",
+    "connectionStation": [
+      "переход на станцию «Курская» Кольцевой линии",
+      "переход на станцию «Курская» Арбатско-Покровской линии",
+      "переход на станцию «Курская» Курско-Рижского (второго) диаметра"
+    ]
+  },
+  {
+    "numberLine": "10",
+    "name": "Сретенский бульвар",
+    "connectionStation": [
+      "переход на станцию «Тургеневская» Калужско-Рижской линии",
+      "переход на станцию «Чистые пруды» Сокольнической линии"
+    ]
+  },
+  {
+    "numberLine": "10",
+    "name": "Трубная",
+    "connectionStation": [
+      "переход на станцию «Цветной бульвар» Серпуховско-Тимирязевской линии"
+    ]
+  },
+  {
+    "numberLine": "10",
+    "name": "Достоевская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "10",
+    "name": "Марьина роща",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "10",
+    "name": "Бутырская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "10",
+    "name": "Фонвизинская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "10",
+    "name": "Петровско-Разумовская",
+    "connectionStation": [
+      "переход на станцию «Петровско-Разумовская» Серпуховско-Тимирязевской линии"
+    ]
+  },
+  {
+    "numberLine": "10",
+    "name": "Окружная",
+    "connectionStation": [
+      "переход на станцию «Окружная» МЦК",
+      "переход на станцию «Окружная» Белорусско-Савёловского (первого) диаметра"
+    ]
+  },
+  {
+    "numberLine": "10",
+    "name": "Верхние Лихоборы",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "10",
+    "name": "Селигерская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "11",
+    "name": "Савёловская",
+    "connectionStation": [
+      "переход на станцию «Савеловская» Серпуховско-Тимирязевской линии",
+      "переход на станцию «Савёловская» Белорусско-Савёловского (первого) диаметра"
+    ]
+  },
+  {
+    "numberLine": "11",
+    "name": "Петровский парк",
+    "connectionStation": [
+      "переход на станцию «Динамо» Замоскворецкой линии"
+    ]
+  },
+  {
+    "numberLine": "11",
+    "name": "ЦСКА",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "11",
+    "name": "Хорошёвская",
+    "connectionStation": [
+      "переход на станцию «Хорошёво» МЦК",
+      "переход на станцию «Полежаевская» Таганско-Краснопресненской линии"
+    ]
+  },
+  {
+    "numberLine": "11",
+    "name": "Шелепиха",
+    "connectionStation": [
+      "переход на станцию «Шелепиха» МЦК",
+      "переход на станцию «Тестовская» Белорусско-Савёловского (первого) диаметра"
+    ]
+  },
+  {
+    "numberLine": "11",
+    "name": "Деловой центр",
+    "connectionStation": [
+      "переход на станцию «Деловой центр» Калининско-Солнцевской линии",
+      "переход на станцию «Выставочная» Филевской линии",
+      "переход на станцию «Тестовская» Белорусско-Савёловского (первого) диаметра"
+    ]
+  },
+  {
+    "numberLine": "11A",
+    "name": "Каховская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "11A",
+    "name": "Варшавская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "11A",
+    "name": "Каширская",
+    "connectionStation": [
+      "переход на станцию «Каширская» Замоскворецкой линии"
+    ]
+  },
+  {
+    "numberLine": "12",
+    "name": "Битцевский парк",
+    "connectionStation": [
+      "переход на станцию «Новоясеневская» Калужско-Рижской линии"
+    ]
+  },
+  {
+    "numberLine": "12",
+    "name": "Лесопарковая",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "12",
+    "name": "Улица Старокачаловская",
+    "connectionStation": [
+      "переход на станцию «Бульвар Дмитрия Донского» Серпуховско-Тимирязевской линии"
+    ]
+  },
+  {
+    "numberLine": "12",
+    "name": "Улица Скобелевская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "12",
+    "name": "Бульвар адмирала Ушакова",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "12",
+    "name": "Улица Горчакова",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "12",
+    "name": "Бунинская Аллея",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "14",
+    "name": "Окружная",
+    "connectionStation": [
+      "переход на станцию «Окружная» Люблинско-Дмитровской линии",
+      "переход на станцию «Окружная» Белорусско-Савёловского (первого) диаметра"
+    ]
+  },
+  {
+    "numberLine": "14",
+    "name": "Владыкино",
+    "connectionStation": [
+      "переход на станцию «Владыкино» Серпуховско-Тимирязевской линии"
+    ]
+  },
+  {
+    "numberLine": "14",
+    "name": "Ботанический Сад",
+    "connectionStation": [
+      "переход на станцию «Ботанический сад» Калужско-Рижской линии"
+    ]
+  },
+  {
+    "numberLine": "14",
+    "name": "Ростокино",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "14",
+    "name": "Белокаменная",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "14",
+    "name": "Бульвар Рокоссовского",
+    "connectionStation": [
+      "переход на станцию «Бульвар Рокоссовского» Сокольнической линии"
+    ]
+  },
+  {
+    "numberLine": "14",
+    "name": "Локомотив",
+    "connectionStation": [
+      "переход на станцию «Черкизовская» Сокольнической линии"
+    ]
+  },
+  {
+    "numberLine": "14",
+    "name": "Измайлово",
+    "connectionStation": [
+      "переход на станцию «Партизанская» Арбатско-Покровской линии"
+    ]
+  },
+  {
+    "numberLine": "14",
+    "name": "Соколиная Гора",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "14",
+    "name": "Шоссе Энтузиастов",
+    "connectionStation": [
+      "переход на станцию «Шоссе Энтузиастов» Калининско-Солнцевской линии"
+    ]
+  },
+  {
+    "numberLine": "14",
+    "name": "Андроновка",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "14",
+    "name": "Нижегородская",
+    "connectionStation": [
+      "переход на станцию «Нижегородская» Некрасовской линии"
+    ]
+  },
+  {
+    "numberLine": "14",
+    "name": "Новохохловская",
+    "connectionStation": [
+      "переход на станцию «Новохохловская» Курско-Рижского (второго) диаметра"
+    ]
+  },
+  {
+    "numberLine": "14",
+    "name": "Угрешская",
+    "connectionStation": [
+      "переход на станцию «Волгоградский проспект» Таганско-Краснопресненской линии"
+    ]
+  },
+  {
+    "numberLine": "14",
+    "name": "Дубровка",
+    "connectionStation": [
+      "переход на станцию «Дубровка» Люблинско-Дмитровской линии"
+    ]
+  },
+  {
+    "numberLine": "14",
+    "name": "Автозаводская",
+    "connectionStation": [
+      "переход на станцию «Автозаводская» Замоскворецкой линии"
+    ]
+  },
+  {
+    "numberLine": "14",
+    "name": "ЗИЛ",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "14",
+    "name": "Верхние Котлы",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "14",
+    "name": "Крымская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "14",
+    "name": "Площадь Гагарина",
+    "connectionStation": [
+      "переход на станцию «Ленинский проспект» Калужско-Рижской линии"
+    ]
+  },
+  {
+    "numberLine": "14",
+    "name": "Лужники",
+    "connectionStation": [
+      "переход на станцию «Спортивная» Сокольнической линии"
+    ]
+  },
+  {
+    "numberLine": "14",
+    "name": "Кутузовская",
+    "connectionStation": [
+      "переход на станцию «Кутузовская» Филевской линии"
+    ]
+  },
+  {
+    "numberLine": "14",
+    "name": "Деловой центр",
+    "connectionStation": [
+      "переход на станцию «Международная» Филевской линии",
+      "переход на станцию «Тестовская» Белорусско-Савёловского (первого) диаметра"
+    ]
+  },
+  {
+    "numberLine": "14",
+    "name": "Шелепиха",
+    "connectionStation": [
+      "переход на станцию «Шелепиха» БКЛ",
+      "переход на станцию «Тестовская» Белорусско-Савёловского (первого) диаметра"
+    ]
+  },
+  {
+    "numberLine": "14",
+    "name": "Хорошёво",
+    "connectionStation": [
+      "переход на станцию «Хорошёвская» БКЛ",
+      "переход на станцию «Полежаевская» Таганско-Краснопресненской линии"
+    ]
+  },
+  {
+    "numberLine": "14",
+    "name": "Зорге",
+    "connectionStation": [
+      "переход на станцию «Октябрьское Поле» Таганско-Краснопресненской линии"
+    ]
+  },
+  {
+    "numberLine": "14",
+    "name": "Панфиловская",
+    "connectionStation": [
+      "переход на станцию «Октябрьское Поле» Таганско-Краснопресненской линии"
+    ]
+  },
+  {
+    "numberLine": "14",
+    "name": "Стрешнево",
+    "connectionStation": [
+      "переход на станцию «Стрешнево» Курско-Рижского (второго) диаметра"
+    ]
+  },
+  {
+    "numberLine": "14",
+    "name": "Балтийская",
+    "connectionStation": [
+      "переход на станцию «Войковская» Замоскворецкой линии"
+    ]
+  },
+  {
+    "numberLine": "14",
+    "name": "Коптево",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "14",
+    "name": "Лихоборы",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "15",
+    "name": "Электрозаводская",
+    "connectionStation": [
+      "переход на станцию «Электрозаводская» Арбатско-Покровской линии"
+    ]
+  },
+  {
+    "numberLine": "15",
+    "name": "Лефортово",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "15",
+    "name": "Авиамоторная",
+    "connectionStation": [
+      "переход на станцию «Авиамоторная» Калининско-Солнцевской линии"
+    ]
+  },
+  {
+    "numberLine": "15",
+    "name": "Нижегородская",
+    "connectionStation": [
+      "переход на станцию «Нижегородская» МЦК"
+    ]
+  },
+  {
+    "numberLine": "15",
+    "name": "Стахановская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "15",
+    "name": "Окская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "15",
+    "name": "Юго-Восточная",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "15",
+    "name": "Косино",
+    "connectionStation": [
+      "переход на станцию «Лермонтовский проспект» Таганско-Краснопресненской линии"
+    ]
+  },
+  {
+    "numberLine": "15",
+    "name": "Улица Дмитриевского",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "15",
+    "name": "Лухмановская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "15",
+    "name": "Некрасовка",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D1",
+    "name": "Одинцово",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D1",
+    "name": "Баковка",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D1",
+    "name": "Сколково",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D1",
+    "name": "Немчиновка",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D1",
+    "name": "Сетунь",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D1",
+    "name": "Рабочий Посёлок",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D1",
+    "name": "Кунцево",
+    "connectionStation": [
+      "переход на станцию «Кунцевская» Филевской линии",
+      "переход на станцию «Кунцевская» Арбатско-Покровской линии"
+    ]
+  },
+  {
+    "numberLine": "D1",
+    "name": "Славянский бульвар",
+    "connectionStation": [
+      "переход на станцию «Славянский бульвар» Арбатско-Покровской линии"
+    ]
+  },
+  {
+    "numberLine": "D1",
+    "name": "Фили",
+    "connectionStation": [
+      "переход на станцию «Фили» Филевской линии"
+    ]
+  },
+  {
+    "numberLine": "D1",
+    "name": "Тестовская",
+    "connectionStation": [
+      "переход на станцию «Шелепиха» МЦК",
+      "переход на станцию «Деловой центр» МЦК",
+      "переход на станцию «Шелепиха» БКЛ",
+      "переход на станцию «Деловой центр» БКЛ",
+      "переход на станцию «Выставочная» Филевской линии",
+      "переход на станцию «Международная» Филевской линии"
+    ]
+  },
+  {
+    "numberLine": "D1",
+    "name": "Беговая",
+    "connectionStation": [
+      "переход на станцию «Беговая» Таганско-Краснопресненской линии"
+    ]
+  },
+  {
+    "numberLine": "D1",
+    "name": "Белорусская",
+    "connectionStation": [
+      "переход на станцию «Белорусская» Кольцевой линии",
+      "переход на станцию «Белорусская» Замоскворецкой линии"
+    ]
+  },
+  {
+    "numberLine": "D1",
+    "name": "Савёловская",
+    "connectionStation": [
+      "переход на станцию «Савёловская» БКЛ",
+      "переход на станцию «Савеловская» Серпуховско-Тимирязевской линии"
+    ]
+  },
+  {
+    "numberLine": "D1",
+    "name": "Тимирязевская",
+    "connectionStation": [
+      "переход на станцию «Тимирязевская» Серпуховско-Тимирязевской линии"
+    ]
+  },
+  {
+    "numberLine": "D1",
+    "name": "Окружная",
+    "connectionStation": [
+      "переход на станцию «Окружная» МЦК",
+      "переход на станцию «Окружная» Люблинско-Дмитровской линии"
+    ]
+  },
+  {
+    "numberLine": "D1",
+    "name": "Дегунино",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D1",
+    "name": "Бескудниково",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D1",
+    "name": "Лианозово",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D1",
+    "name": "Марк",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D1",
+    "name": "Новодачная",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D1",
+    "name": "Долгопрудная",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D1",
+    "name": "Водники",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D1",
+    "name": "Хлебниково",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D1",
+    "name": "Шереметьевская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D1",
+    "name": "Лобня",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D2",
+    "name": "Нахабино",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D2",
+    "name": "Аникеевка",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D2",
+    "name": "Опалиха",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D2",
+    "name": "Красногорская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D2",
+    "name": "Павшино",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D2",
+    "name": "Пенягино",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D2",
+    "name": "Волоколамская",
+    "connectionStation": [
+      "переход на станцию «Волоколамская» Арбатско-Покровской линии"
+    ]
+  },
+  {
+    "numberLine": "D2",
+    "name": "Трикотажная",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D2",
+    "name": "Тушино",
+    "connectionStation": [
+      "переход на станцию «Тушинская» Таганско-Краснопресненской линии"
+    ]
+  },
+  {
+    "numberLine": "D2",
+    "name": "Щукинская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D2",
+    "name": "Стрешнево",
+    "connectionStation": [
+      "переход на станцию «Стрешнево» МЦК",
+      "переход на станцию «Войковская» Замоскворецкой линии"
+    ]
+  },
+  {
+    "numberLine": "D2",
+    "name": "Красный Балтиец",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D2",
+    "name": "Гражданская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D2",
+    "name": "Дмитровская",
+    "connectionStation": [
+      "переход на станцию «Дмитровская» Серпуховско-Тимирязевской линии"
+    ]
+  },
+  {
+    "numberLine": "D2",
+    "name": "Рижская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D2",
+    "name": "Каланчёвская",
+    "connectionStation": [
+      "переход на станцию «Комсомольская» Кольцевой линии",
+      "переход на станцию «Комсомольская» Сокольнической линии"
+    ]
+  },
+  {
+    "numberLine": "D2",
+    "name": "Курская",
+    "connectionStation": [
+      "переход на станцию «Чкаловская» Люблинско-Дмитровской линии",
+      "переход на станцию «Курская» Кольцевой линии",
+      "переход на станцию «Курская» Арбатско-Покровской линии"
+    ]
+  },
+  {
+    "numberLine": "D2",
+    "name": "Москва Товарная",
+    "connectionStation": [
+      "переход на станцию «Римская» Люблинско-Дмитровской линии",
+      "переход на станцию «Площадь Ильича» Калининско-Солнцевской линии"
+    ]
+  },
+  {
+    "numberLine": "D2",
+    "name": "Калитники",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D2",
+    "name": "Новохохловская",
+    "connectionStation": [
+      "переход на станцию «Новохохловская» МЦК"
+    ]
+  },
+  {
+    "numberLine": "D2",
+    "name": "Текстильщики",
+    "connectionStation": [
+      "переход на станцию «Текстильщики» Таганско-Краснопресненской линии"
+    ]
+  },
+  {
+    "numberLine": "D2",
+    "name": "Кубанская",
+    "connectionStation": [
+      "переход на станцию «Печатники» Люблинско-Дмитровской линии"
+    ]
+  },
+  {
+    "numberLine": "D2",
+    "name": "Депо",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D2",
+    "name": "Перерва",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D2",
+    "name": "Курьяново",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D2",
+    "name": "Москворечье",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D2",
+    "name": "Царицыно",
+    "connectionStation": [
+      "переход на станцию «Царицыно» Замоскворецкой линии"
+    ]
+  },
+  {
+    "numberLine": "D2",
+    "name": "Покровская",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D2",
+    "name": "Красный Строитель",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D2",
+    "name": "Битца",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D2",
+    "name": "Бутово",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D2",
+    "name": "Щербинка",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D2",
+    "name": "Остафьево",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D2",
+    "name": "Силикатная",
+    "connectionStation": null
+  },
+  {
+    "numberLine": "D2",
+    "name": "Подольск",
+    "connectionStation": null
+  }
+]
